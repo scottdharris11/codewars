@@ -1,4 +1,4 @@
-package com.harris;
+package com.harris.kyu7;
 
 public class Accumul {
     public static String accum(String s) {

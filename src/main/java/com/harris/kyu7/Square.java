@@ -1,4 +1,4 @@
-package com.harris;
+package com.harris.kyu7;
 
 public class Square {
     public boolean isSquare(int n) {

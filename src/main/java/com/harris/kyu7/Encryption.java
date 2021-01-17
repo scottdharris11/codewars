@@ -1,4 +1,4 @@
-package com.harris;
+package com.harris.kyu7;
 
 public class Encryption {
     public static String encrypt(final String text, final int n) {
